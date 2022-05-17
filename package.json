@@ -1,0 +1,15 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo for front and backend project",
+  "main": "index.js",
+  "repository": "https://github.com/roni-castro/monorepo.git",
+  "author": "Roni",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
