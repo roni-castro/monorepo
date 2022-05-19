@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo/axios-config",
+  "version": "1.0.0",
+  "description": "Axios shared config",
+  "main": "index.ts",
+  "author": "Roni",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
